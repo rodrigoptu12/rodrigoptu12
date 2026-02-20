@@ -1,7 +1,6 @@
 # Olá, eu sou o Rodrigo! 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoptu12&count_private=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoptu12&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=rodrigoptu12&theme=cobalt&hide_border=true)
 
 ---
 
