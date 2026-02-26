@@ -1,6 +1,5 @@
 # Olá, eu sou o Rodrigo! 👋
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rodrigoptu12&theme=cobalt&hide_border=true)
 
 ---
 
